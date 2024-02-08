@@ -1,0 +1,5 @@
+app:
+  image:
+    repository: nginx
+    pullPolicy: Always
+    tag: 1.24.0

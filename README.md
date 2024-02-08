@@ -5,7 +5,7 @@
 ```sh
 $ helm repo add missingstudio https://missingstudio.github.io/charts/
 $ helm search repo missingstudio
-$ helm install studio raystack/studio
+$ helm install studio missingstudio/studio
 ```
 
 ## Usage
