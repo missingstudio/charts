@@ -3,12 +3,16 @@ entries:
   core:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-02-08T17:24:07.913074069Z"
+    created: "2024-02-08T17:27:40.968211733Z"
+    dependencies:
+    - name: core
+      repository: https://missingstudio.github.io/charts/
+      version: 0.1.0
     description: A Helm chart for Kubernetes
-    digest: 457e65f8995573706f6381a96bfac00ea8c91a2469fb636591086106ec7c25bd
+    digest: 42c598ac145f46f8ba8b8403a5f3ac6439f5b152c7f917d657bdaef3cab3fdb7
     name: core
     type: application
     urls:
     - https://missingstudio.github.io/charts/core-0.1.0.tgz
     version: 0.1.0
-generated: "2024-02-08T17:24:07.91225916Z"
+generated: "2024-02-08T17:27:40.966748423Z"
